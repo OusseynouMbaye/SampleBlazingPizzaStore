@@ -1,6 +1,4 @@
-﻿using System.Net;
-
-namespace SampleBlazingPizzaStore.Model
+﻿namespace SampleBlazingPizzaStore.Models
 {
     public class Order
     {

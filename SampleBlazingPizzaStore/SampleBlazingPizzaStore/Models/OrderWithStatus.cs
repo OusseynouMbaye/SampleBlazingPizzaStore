@@ -1,4 +1,4 @@
-﻿namespace SampleBlazingPizzaStore.Model
+﻿namespace SampleBlazingPizzaStore.Models
 {
     public class OrderWithStatus
     {
